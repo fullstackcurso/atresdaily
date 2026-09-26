@@ -1,19 +1,19 @@
 {
-  "id": "atresdaily_v500",
+  "id": "atresdaily_v501",
   "title": "AtresDaily 5.0.0",
   "color": "orange",
-  "message": "[B][COLOR orange]NUEVA VERSIÓN[/COLOR][/B]\n------------------------------------------------------------\nYa está disponible AtresDaily 5.0.0, la última versión.\n",
+  "message": "[B][COLOR orange]NUEVA VERSIÓN[/COLOR][/B]\n------------------------------------------------------------\nYa está disponible AtresDaily 5.0.0",
   "repeat": 2,
   "messages": [
     {
-      "id": "atresdaily_v500",
+      "id": "atresdaily_v501",
       "title": "AtresDaily 5.0.0",
       "color": "orange",
-      "message": "[B][COLOR orange]NUEVA VERSIÓN[/COLOR][/B]\n------------------------------------------------------------\nYa está disponible AtresDaily 5.0.0, la última versión.\n",
+      "message": "[B][COLOR orange]NUEVA VERSIÓN[/COLOR][/B]\n------------------------------------------------------------\nYa está disponible AtresDaily 5.0.0",
       "repeat": 2
     },
     {
-      "id": "atresdaily_info_v52",
+      "id": "atresdaily_info_v53",
       "title": "EspaKodi 0.1.2 APP & EKHorus",
       "message": "[B][COLOR yellow]NUEVAS VERSIONES[/COLOR][/B]\n------------------------------------------------------------\n[B]EspaKodi 0.1.2 App[/B]\nWeb: https://espakodi.github.io/apk/\nCódigos Downloader:\n • [COLOR skyblue]64 bits:[/COLOR] [B]5433357[/B]\n • [COLOR skyblue]32 bits:[/COLOR] [B]1208875[/B]\n------------------------------------------------------------\n[B]EKHorus 2.0.1[/B]\nWeb: https://espakodi.github.io/EKHorus/\nCódigo Downloader: [B]2047082[/B]\n------------------------------------------------------------\n[COLOR grey]Fuente de este mensaje: Repositorio público de AtresDaily.[/COLOR]",
       "repeat": 2
